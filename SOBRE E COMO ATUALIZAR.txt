@@ -1,0 +1,5 @@
+Site Centurion — Gestão de Milhas e Viagens
+No ar:  (verificar seu domínio/deploy)
+GitHub: (não existe — só cópia local)
+
+Inclui index.html + pasta assets (imagens) + site.zip (pacote original).
